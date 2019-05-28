@@ -12,3 +12,4 @@ Script to smash the Update + Merge button until the PR is merged
 ## Caveats
 
 * Only works for "Squash + rebase" style PRs for now
+* Depends on DOM elements + CSS selectors, so if Github changes things this will break.
