@@ -1,5 +1,5 @@
 # github-auto-merge
-Script to smash the Update + Merge button until the PR is merged
+**Browser script to smash the Update + Merge button until the PR is merged**
 
 ![console output](./img/console_output.png)
 
